@@ -2,3 +2,4 @@ Name       Grade
 Peter        78
 Alusine      90
 ASma         65
+Etta        80
